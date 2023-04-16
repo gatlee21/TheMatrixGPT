@@ -1,1 +1,1 @@
-# TheMatrixGPT
+# The MatrixGPT
