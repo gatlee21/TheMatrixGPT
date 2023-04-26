@@ -4,9 +4,9 @@
 Welcome to MatrixGPT, a project striving to implement the innovative concepts presented in the <a href="https://arxiv.org/pdf/2304.03442.pdf">research paper</a> by Stanford University and Google Research.
 
 This repo only contains a portion of those concepts:
-* A simple grass park for the AI agents to freely move around in
-* 2 OpenAI connected agents that contain memories and can engage in conversation
-* Agents have the ability to generate reflections but it is currently not enabled in this instance
+* A minimalist grass park environment for AI agents to navigate with ease
+* A pair of OpenAI-integrated agents equipped with memory and conversational capabilities
+* Although the agents possess the functionality to generate reflections, this feature is currently disabled in this specific instance.
 
 👁 View the <a href="https://gatlee21.github.io/thematrixgpt-guide/">project proposal</a> 👁
 
@@ -20,8 +20,7 @@ The MatrixGPT runs locally on your machine. To run:
 4. To view the agent's conversation open your browsers debug console
 
 ## Help Wanted 🙏
-To implement everything in the research paper is to much for one developer. Please, if you find this project
-promising pick of these items to work on:
+Implementing all aspects of the research paper is an overwhelming task for a single developer. If you find this project promising, I encourage you to contribute by selecting one of the following items to work on:
 
 * The ability for agents to generate and react to plans
 * Agents should be able to move on their own according to their plans or based on "free will"
